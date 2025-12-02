@@ -16,10 +16,23 @@ Também busco evoluir em:
 🏗️ Estruturação de projetos
 🧠 Resolução de problemas
 
-🌱 Objetivos
 
-Construir meu portfólio com 3 projetos backend reais
+🚀 Tecnologias que estou estudando
+<div style="display: flex; gap: 10px;"> Java • MySQL • Spring Boot • Maven • Git • JavaFX • APIs REST </div>
+📂 Principais Projetos (em desenvolvimento)
 
-Dominar Spring Boot e banco de dados
+Aplicação Desktop com JavaFX + MySQL
 
-Conseguir minha primeira vaga como dev backend ou estágio em tecnologia
+API REST com Spring Boot + JPA/Hibernate
+
+API REST com Spring + MongoDB
+
+Projeto autoral de CRUD (em breve)
+
+📫 Como falar comigo
+
+✉️ Email: gcoelho.garcia1@gmail.com
+
+✔️ Obrigado por visitar meu perfil!
+
+Sinta-se à vontade para explorar meus repositórios conforme minha jornada de aprendizado evolui.
